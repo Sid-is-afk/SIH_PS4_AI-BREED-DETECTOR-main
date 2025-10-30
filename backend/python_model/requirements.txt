@@ -1,0 +1,6 @@
+flask
+flask-cors
+ultralytics
+Pillow
+numpy
+gunicorn
